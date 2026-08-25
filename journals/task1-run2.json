@@ -1,0 +1,1 @@
+{"task": "task1", "run": 2, "success": true, "steps": 7, "tools_used": ["read_file", "write_file", "run_pytest"], "cost_usd": 0.003}

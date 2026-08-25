@@ -1,0 +1,1 @@
+{"task": "task2", "run": 3, "success": true, "steps": 6, "tools_used": ["read_file", "write_file"], "cost_usd": 0.002}
